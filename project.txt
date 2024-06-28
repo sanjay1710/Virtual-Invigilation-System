@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+https://github.com/vardanagarwal/Proctoring-AI
+=======
+https://github.com/vardanagarwal/Proctoring-AI
+>>>>>>> 059c5c6628fc9819c96f8fac1648dfeedf473faf
+https://github.com/narender-rk10/MyProctor.ai-AI-BASED-SMART-ONLINE-EXAMINATION-PROCTORING-SYSYTEM

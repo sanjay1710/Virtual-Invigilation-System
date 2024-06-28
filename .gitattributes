@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+D:/Automated/yolov3.weights filter=lfs diff=lfs merge=lfs -text
+=======
+D:/Automated/shape_predictor_68_face_landmarks.dat filter=lfs diff=lfs merge=lfs -text
+D:/Automated/yolov3.weights filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 059c5c6628fc9819c96f8fac1648dfeedf473faf
+D:/Automated/yolov3.weights filter=lfs diff=lfs merge=lfs -text
